@@ -4,10 +4,9 @@
 <html>
 <head>
 <meta charset="EUC-KR">
-<title>index.jsp</title>
+<title>Insert title here</title>
 </head>
 <body>
-	<h1>index 페이지입니다</h1>
-	<P>by hong</P>
+	<h1>hong.jsp</h1>
 </body>
 </html>
